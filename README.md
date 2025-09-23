@@ -5,6 +5,8 @@ This project implements an autonomous delivery agent that navigates a 2D grid ci
 ![License](https://img.shields.io/badge/license-None-lightgrey)
 ![Stars](https://img.shields.io/github/stars/Kartikey-3005/AIML_Project_KARTIKEYKARANWAL_24BCE10508?style=social)
 ![Forks](https://img.shields.io/github/forks/Kartikey-3005/AIML_Project_KARTIKEYKARANWAL_24BCE10508?style=social)
+<img width="344" height="331" alt="Screenshot 2025-09-23 215735" src="https://github.com/user-attachments/assets/d1b7194d-4505-4a8d-a0ff-bede526658b4" />
+
 
 ##  Features
 
