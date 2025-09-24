@@ -85,3 +85,10 @@ The map files (`.txt`) have a simple format:
     * `obstacle_id,row,col,time1,time2,...`
 
 
+
+
+## Dynamic Replanning Example
+<img width="1552" height="916" alt="image" src="https://github.com/user-attachments/assets/44a4946b-2867-4667-8022-04579bb43c1d" />
+
+
+
